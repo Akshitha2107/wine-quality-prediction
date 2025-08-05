@@ -1,3 +1,4 @@
+“A machine learning project to classify red wine quality using physicochemical features.”
 # Wine Quality Prediction (Red Wine)
 
 This project involves the application of machine learning techniques to predict the quality of red wine based on its physicochemical properties. The primary objective is to develop a classification model that accurately determines whether a given wine sample is of good quality.
